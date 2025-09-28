@@ -3,6 +3,9 @@
 A minimal Next.js + OpenAI demo app for generating tailored cover letters with GPT models.  
 This repo accompanies the tutorial series showing how to build and integrate LLMs into a modern web app.
 
+YouTube tutorial:
+https://www.youtube.com/watch?v=OUwleDqAwXI
+
 ---
 
 ## 🚀 Getting Started
@@ -52,4 +55,5 @@ https://coversnapapp.com/
 
 ## 📜 License
 MIT — feel free to use and adapt.
+
 
